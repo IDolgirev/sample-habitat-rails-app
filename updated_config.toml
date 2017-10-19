@@ -1,0 +1,5 @@
+secret_key_base = "accd453cb9511736e4e5f0fb0a0aa64144e15dbc1e407313296537992def35396d5adee6facdea7ebcfe7cedc3fe5b333d3f72af5269009859c9774e40481125"
+
+[db]
+user = "admin"
+password = "admin"
